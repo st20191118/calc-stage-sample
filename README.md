@@ -4,6 +4,8 @@ This pipeline is based off of [a sample node app by Ed Thomson](https://github.c
 
 [![Build Status](https://dev.azure.com/st20191118/Parts%20Unlimited/_apis/build/status/st20191118.calc-stage-sample?branchName=master)](https://dev.azure.com/st20191118/Parts%20Unlimited/_build/latest?definitionId=8&branchName=master)
 
+If you have problems with the status badge, anonymous access to badges might be disabled for your project settings or your organization. Go to Project Settings » Pipelines » Settings. Toggle "Disable anonymous access to badges" OFF. See [this page](https://stackoverflow.com/questions/58674639/azure-pipelines-status-badge-not-getting-displayed-in-markdown).
+
 ## Forking and running locally
 1. Clone the repo
 2. `npm install`
